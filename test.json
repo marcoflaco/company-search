@@ -1,0 +1,77 @@
+{
+    "data": [
+    {
+    "id": "1",
+    "name": "Wintheiser Group",
+    "city": "West Esteban",
+    "zipCode": "97018",
+    "streetName": "Lilly View",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2021-07-16T19:41:28.272Z"
+    },
+    {
+    "id": "2",
+    "name": "Feest, Schinner and Lowe",
+    "city": "New Ahmad",
+    "zipCode": "07811",
+    "streetName": "Bartell Tunnel",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2021-10-03T18:37:01.931Z"
+    },
+    {
+    "id": "3",
+    "name": "Ruecker, Grant and Mosciski",
+    "city": "South Leilastad",
+    "zipCode": "57843",
+    "streetName": "Amparo Inlet",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2021-07-21T11:40:04.460Z"
+    },
+    {
+    "id": "4",
+    "name": "Davis - Stiedemann",
+    "city": "West Aniyahview",
+    "zipCode": "01404",
+    "streetName": "Judson Village",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2021-04-26T04:00:53.757Z"
+    },
+    {
+    "id": "5",
+    "name": "Connelly LLC",
+    "city": "Hamillchester",
+    "zipCode": "18773",
+    "streetName": "Loren Extensions",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2021-05-03T03:36:51.245Z"
+    },
+    {
+    "id": "6",
+    "name": "Skiles, Bergnaum and Hagenes",
+    "city": "Port Crystel",
+    "zipCode": "12855",
+    "streetName": "Stroman Glens",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2021-05-07T08:01:10.939Z"
+    },
+    {
+    "id": "7",
+    "name": "Streich - Kuhic",
+    "city": "North Ernestinahaven",
+    "zipCode": "94618",
+    "streetName": "Wilfred Manor",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2021-08-04T10:44:14.183Z"
+    },
+    {
+    "id": "8",
+    "name": "Schumm - Gerlach",
+    "city": "Waelchibury",
+    "zipCode": "83110",
+    "streetName": "Cartwright Mountains",
+    "logo": "https://via.placeholder.com/150",
+    "createdAt": "2022-01-28T14:00:50.412Z"
+    }
+    ],
+    "total": 40
+    }

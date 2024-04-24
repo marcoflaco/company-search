@@ -1,0 +1,69 @@
+
+.table thead th {
+    color: #fdfeff;
+    background-color: #2d7bc4;
+  }
+  .table tbody tr td {
+    transition: background-color 0.3s ease;
+  }
+  .table tbody tr td:nth-child(odd):hover {
+    background-color: #e6e6e6;
+  }
+  
+  .table tbody tr td:nth-child(odd) {
+    background-color: #f0f0f0;
+  }
+  
+  .table tbody tr td:nth-child(even) {
+    background-color: #d9edf7;
+  }
+  
+  .table tbody tr td:nth-child(even):hover {
+    background-color: #c2e0f4;
+  }
+
+  @media (max-width: 576px) {
+    .input-group input {
+      margin-bottom: 0.5rem;
+    }
+  
+    .input-group button {
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .table td, .table th {
+      padding: 0.3rem; 
+    }
+  
+    .table .btn {
+      padding: 0.25rem 0.5rem; 
+      font-size: 0.8rem; 
+    }
+  }
+
+  @media (max-width: 991px) {
+    .table td, .table th {
+      display: block;
+      width: 100%;
+    }
+  
+    .table thead {
+      display: none;
+    }
+  
+    .table td::before {
+      display: block;
+      font-weight: bold;
+    }
+  
+    .table td:nth-of-type(1)::before { content: "Name"; }
+    .table td:nth-of-type(2)::before { content: "City"; }
+    .table td:nth-of-type(3)::before { content: "Zip Code"; }
+    .table td:nth-of-type(4)::before { content: "Street Name"; }
+  
+    .table td:last-child, .table th:last-child {
+      white-space: nowrap; 
+    }
+  }
